@@ -4,7 +4,7 @@
 ## Random Numberr using Math()
    
     
-    ```int randomNumber = (int) (Math.random()*4 +1); ```
+    ```   int randomNumber = (int) (Math.random()*4 +1);   ```
  
 
  
