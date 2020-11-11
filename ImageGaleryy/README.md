@@ -2,13 +2,17 @@
  In this Ropsitory about that how we can cange image when we click button.
 
 ## Random Numberr using Math()
+   
+    
+    ```int randomNumber = (int) (Math.random()*4 +1); ```
+ 
 
  
  ## Screenshots
- ![alt text](https://github.com/mfurkan60/MyAndroidAdventure/blob/main/Factorial%20app/Screenshots/img1%20(1).png?raw=true)
+ ![alt text](https://github.com/mfurkan60/MyAndroidAdventure/blob/main/ImageGaleryy/img1.png?raw=true)
  
  
- ![alt text](https://github.com/mfurkan60/MyAndroidAdventure/blob/main/Factorial%20app/Screenshots/img2.png?raw=true)
+ ![alt text](https://github.com/mfurkan60/MyAndroidAdventure/blob/main/ImageGaleryy/img2.png?raw=true)
  
  
 
